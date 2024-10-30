@@ -1,0 +1,63 @@
+/*
+  Localizable.strings
+  TemplateForSwiftUI
+
+ Created by HaiPH7.FA on 17/07/2023.
+
+*/
+
+"english" = "Tiếng anh";
+"vietnamese" = "Tiếng việt";
+
+"helloWorld" = "Xin chào";
+"locked" = "Đã bị khoá";
+"scanFaceID" = "Quét faceID để mở";
+
+"error" = "Đã có lỗi xảy ra!";
+"cancel" = "Huỷ";
+"home" = "Trang chủ";
+
+"upcoming" = "Phim sắp chiếu";
+"nowPlaying" = "Đang chiếu";
+"viewAll" = "Xem tất cả";
+"trending" = "Xu hướng";
+"topRated" = "Phim nổi tiếng";
+
+"movie" = "Phim";
+"tv" = "Truyền hình";
+"search" = "Tìm kiếm";
+"discover" = "Khám phá";
+"setting" = "Cài đặt";
+
+"vote" = "Phiếu";
+"min" = "Phút";
+
+"cast" = "Diễn viên";
+"crews" = "Sản xuất";
+
+"findOutMore" = "Tìm hiểu thêm về";
+
+"smimilar" = "Có thể bạn sẽ thích";
+"orderNow" = "Đặt vé ngay";
+
+"searchMovie" = "Tìm kiếm phim tại đây";
+"imagePlaceholderText" = "Không tìm thấy ảnh";
+
+"register" = "Đăng ký";
+"onlinShopping" = "Mua sắm trực tuyến";
+"username" = "Tên đăng nhập";
+"firstName" = "Họ";
+"lastName" = "Tên";
+"password" = "Mật khẩu";
+"logout" = "Đăng xuất";
+
+"product" = "Sản phẩm";
+"forgotPassword" = "Quên mật khẩu?";
+"logIn" = "Đăng nhập";
+"doHaveAccount" = "Bạn đã có tài khoản?";
+
+"checkout" = "Thanh toán";
+"total" = "Tổng";
+"cart" = "Xe hàng";
+"searchProduct" = "Tìm kiếm sản phẩm";
+

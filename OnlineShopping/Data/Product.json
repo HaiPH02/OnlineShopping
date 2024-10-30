@@ -1,0 +1,203 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "id": 1,
+            "title": "Bơ đường",
+            "sub": "Quả nhiệt đới",
+            "poster": "1",
+            "overview": "Quả bơ có thể chế biến thành các món ăn khác nhau được nhiều người yêu thích, là loại trái cây giàu dinh dưỡng và rất tốt cho sức khỏe.",
+            "vote": 4,
+            "price": 99000
+        },
+        {
+            "id": 2,
+            "title": "Cam đường",
+            "sub": "Quả nhiệt đợi",
+            "poster": "2",
+            "overview": "Cam là một trong những loại trái cây được sử dụng nhiều nhất trên thế giới.",
+            "vote": 5,
+            "price": 189000
+        },
+        {
+            "id": 3,
+            "title": "Chanh",
+            "sub": "Chanh chua",
+            "poster": "3",
+            "overview": "Chanh là một loại trái cây phổ biến, chứa nhiều hợp chất có lợi cho sức khỏe.",
+            "vote": 3,
+            "price": 200000
+        },
+        {
+            "id": 4,
+            "title": "Dâu tây",
+            "sub": "Quả ôn đới",
+            "poster": "4",
+            "overview": "Cây dâu tằm là loại cây rất phổ biến với nhiều tác dụng. Từ nhiều đời này tất cả các thành phần trên cây dâu đểu được dùng làm thuốc chữa bệnh. Quả dâu không chỉ ăn khá ngon mà còn là một vị thuốc với nhiều tác dụng tuyệt vời.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 5,
+            "title": "Dứa",
+            "sub": "Quả nhiệt đới",
+            "poster": "5",
+            "overview": "Dứa rất giàu chất dinh dưỡng, chứa nhiều vitamin, khoáng chất và chất chống oxy hóa. Khoa học đã chứng minh 7 lợi ích đối với sức khoẻ của dứa như tác dụng tăng cường hệ thống miễn dịch, làm chậm quá trình lão hóa...",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 6,
+            "title": "Dưa hấu",
+            "sub": "Quả nhiệt đới",
+            "poster": "6",
+            "overview": "Mùa hè là thời điểm lý tưởng để thưởng thức những trái dưa hấu ngon ngọt, tươi mát. Ngoài việc là một loại hoa quả hấp dẫn ra, dưa hấu còn có những tác dụng tích cực bất ngờ cho sức khỏe mà không phải ai cũng nắm rõ. Dưới đây là 15  lợi ích của dưa hấu đối với sức khỏe của con người.",
+            "vote": 3,
+            "price": 30000
+        },
+        {
+            "id": 7,
+            "title": "Lựu",
+            "sub": "Quả nhiệt đới",
+            "poster": "7",
+            "overview": "Lựu được xem là một trong những loại trái cây tốt nhất cho sức khỏe. Trong quả lựu chứa một loạt các hợp chất từ thực vật có lợi mà nhiều loại thực phẩm khác không thể so sánh được. Các nghiên cứu đã cho thấy rằng chúng có thể có nhiều lợi ích cho cơ thể và làm giảm nguy cơ mắc nhiều bệnh khác nhau",
+            "vote": 4,
+            "price": 30000
+        },
+        {
+            "id": 8,
+            "title": "Vải thiều",
+            "sub": "Quả nhiệt đới",
+            "poster": "8",
+            "overview": "Quả vải thiều là một trong những loại trái cây được ưa chuộng tiêu thụ nhiều vào dịp hè. Loại quả nhiệt đới này không chỉ giàu giá trị dinh dưỡng mà còn đem lại rất nhiều lợi ích ấn tượng đối với sức khoẻ, chẳng hạn như chữa lành các tổn thương, ngăn ngừa ung thư, tốt cho da và hệ tiêu hoá.",
+            "vote": 3,
+            "price": 30000
+        },
+        {
+            "id": 9,
+            "title": "Xoài cát",
+            "sub": "Quả nhiệt đới",
+            "poster": "9",
+            "overview": "Lợi ích của xoài mang đến cho sức khỏe là rất lớn. Hơn nữa, nó là loại trái cây có hương vị thơm ngon nên được rất nhiều người yêu thích.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 10,
+            "title": "Mận chua",
+            "sub": "Quả ôn đới",
+            "poster": "10",
+            "overview": "Một trong những loại trái cây làm siêu lòng những người con trên mọi vùng miền đất nước khi nhắc đến Hà Nội chính là mận Hà Nội. Loại trái cây này năm nào cũng được săn lùng mỗi dịp đến mùa.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 11,
+            "title": "Quả roi",
+            "sub": "Quả ôn đới",
+            "poster": "11",
+            "overview": "Quả roi hay quả mận từ lâu đã trở nên rất quen thuộc với mỗi người. Nó không chỉ ngon mà còn được chứng minh là có nhiều công dụng rất tốt đối với sức khỏe con người.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 12,
+            "title": "Bơ đường mật",
+            "sub": "Quả nhiệt đới",
+            "poster": "1",
+            "overview": "Quả bơ có thể chế biến thành các món ăn khác nhau được nhiều người yêu thích, là loại trái cây giàu dinh dưỡng và rất tốt cho sức khỏe.",
+            "vote": 4,
+            "price": 99000
+        },
+        {
+            "id": 13,
+            "title": "Cam đường mật",
+            "sub": "Quả nhiệt đợi",
+            "poster": "2",
+            "overview": "Cam là một trong những loại trái cây được sử dụng nhiều nhất trên thế giới.",
+            "vote": 5,
+            "price": 189000
+        },
+        {
+            "id": 14,
+            "title": "Chanh tuyết",
+            "sub": "Chanh chua",
+            "poster": "3",
+            "overview": "Chanh là một loại trái cây phổ biến, chứa nhiều hợp chất có lợi cho sức khỏe.",
+            "vote": 3,
+            "price": 200000
+        },
+        {
+            "id": 15,
+            "title": "Dâu tây Mỹ",
+            "sub": "Quả ôn đới",
+            "poster": "4",
+            "overview": "Cây dâu tằm là loại cây rất phổ biến với nhiều tác dụng. Từ nhiều đời này tất cả các thành phần trên cây dâu đểu được dùng làm thuốc chữa bệnh. Quả dâu không chỉ ăn khá ngon mà còn là một vị thuốc với nhiều tác dụng tuyệt vời.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 16,
+            "title": "Dứa Thái",
+            "sub": "Quả nhiệt đới",
+            "poster": "5",
+            "overview": "Dứa rất giàu chất dinh dưỡng, chứa nhiều vitamin, khoáng chất và chất chống oxy hóa. Khoa học đã chứng minh 7 lợi ích đối với sức khoẻ của dứa như tác dụng tăng cường hệ thống miễn dịch, làm chậm quá trình lão hóa...",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 17,
+            "title": "Dưa hấu hạng A",
+            "sub": "Quả nhiệt đới",
+            "poster": "6",
+            "overview": "Mùa hè là thời điểm lý tưởng để thưởng thức những trái dưa hấu ngon ngọt, tươi mát. Ngoài việc là một loại hoa quả hấp dẫn ra, dưa hấu còn có những tác dụng tích cực bất ngờ cho sức khỏe mà không phải ai cũng nắm rõ. Dưới đây là 15  lợi ích của dưa hấu đối với sức khỏe của con người.",
+            "vote": 3,
+            "price": 200000
+        },
+        {
+            "id": 18,
+            "title": "Lựu đạn",
+            "sub": "Quả nhiệt đới",
+            "poster": "7",
+            "overview": "Lựu được xem là một trong những loại trái cây tốt nhất cho sức khỏe. Trong quả lựu chứa một loạt các hợp chất từ thực vật có lợi mà nhiều loại thực phẩm khác không thể so sánh được. Các nghiên cứu đã cho thấy rằng chúng có thể có nhiều lợi ích cho cơ thể và làm giảm nguy cơ mắc nhiều bệnh khác nhau",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 19,
+            "title": "Vải thiều Bắc Giang",
+            "sub": "Quả nhiệt đới",
+            "poster": "8",
+            "overview": "Quả vải thiều là một trong những loại trái cây được ưa chuộng tiêu thụ nhiều vào dịp hè. Loại quả nhiệt đới này không chỉ giàu giá trị dinh dưỡng mà còn đem lại rất nhiều lợi ích ấn tượng đối với sức khoẻ, chẳng hạn như chữa lành các tổn thương, ngăn ngừa ung thư, tốt cho da và hệ tiêu hoá.",
+            "vote": 3,
+            "price": 200000
+        },
+        {
+            "id": 20,
+            "title": "Xoài cát Thái",
+            "sub": "Quả nhiệt đới",
+            "poster": "9",
+            "overview": "Lợi ích của xoài mang đến cho sức khỏe là rất lớn. Hơn nữa, nó là loại trái cây có hương vị thơm ngon nên được rất nhiều người yêu thích.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 21,
+            "title": "Mận chua ngọt",
+            "sub": "Quả ôn đới",
+            "poster": "10",
+            "overview": "Một trong những loại trái cây làm siêu lòng những người con trên mọi vùng miền đất nước khi nhắc đến Hà Nội chính là mận Hà Nội. Loại trái cây này năm nào cũng được săn lùng mỗi dịp đến mùa.",
+            "vote": 4,
+            "price": 200000
+        },
+        {
+            "id": 22,
+            "title": "Quả roi miền Tây",
+            "sub": "Quả ôn đới",
+            "poster": "11",
+            "overview": "Quả roi hay quả mận từ lâu đã trở nên rất quen thuộc với mỗi người. Nó không chỉ ngon mà còn được chứng minh là có nhiều công dụng rất tốt đối với sức khỏe con người.",
+            "vote": 4,
+            "price": 200000
+        }
+    ]
+}

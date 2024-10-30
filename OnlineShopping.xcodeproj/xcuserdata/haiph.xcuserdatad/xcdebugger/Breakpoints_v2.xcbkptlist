@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD0D2BFF-0E84-42A5-949C-DE933BD2865F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23FB6153-EF69-4154-9DE9-9C28069AB165"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnlineShopping/Screen/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "login(email:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23FB6153-EF69-4154-9DE9-9C28069AB165 - c428b7d153603db8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnlineShopping.LoginViewModel.login(email: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "23FB6153-EF69-4154-9DE9-9C28069AB165 - 6cf33d0b720f10dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OnlineShopping.UserModel, OnlineShopping.NetworkError&gt;) -&gt; () in OnlineShopping.LoginViewModel.login(email: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "23FB6153-EF69-4154-9DE9-9C28069AB165 - 6cf33d0b720f10dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;OnlineShopping.UserModel, OnlineShopping.NetworkError&gt;) -&gt; () in OnlineShopping.LoginViewModel.login(email: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C032F6FC-180F-4559-BFBF-7C7F6344AF48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnlineShopping/Screen/Cart/CartViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "restore()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C032F6FC-180F-4559-BFBF-7C7F6344AF48 - 5118df717c46f79c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnlineShopping.CartViewModel.restore() -&gt; ()"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C032F6FC-180F-4559-BFBF-7C7F6344AF48 - 6a6672cb366edc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OnlineShopping.CartProduct) -&gt; Swift.Bool in OnlineShopping.CartViewModel.restore() -&gt; ()"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45862E92-D23C-4DA4-8E40-066329064DD6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnlineShopping/Screen/Cart/View/CartView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CAEEA1D-0DB6-457F-A833-3937EA46F412"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnlineShopping/Screen/Cart/CartViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "cart"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "2CAEEA1D-0DB6-457F-A833-3937EA46F412 - be6e004fb7ecedd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OnlineShopping.CartViewModel.cart.didset : Swift.Array&lt;OnlineShopping.CartProduct&gt;"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "2CAEEA1D-0DB6-457F-A833-3937EA46F412 - c9271bfe2c6ddc6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OnlineShopping.CartProduct) -&gt; Swift.Int in OnlineShopping.CartViewModel.cart.didset : Swift.Array&lt;OnlineShopping.CartProduct&gt;"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "338CEBD5-57A8-4D97-95A7-C2A85AE156DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OnlineShopping/Screen/Cart/CartScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "338CEBD5-57A8-4D97-95A7-C2A85AE156DB - 7a0f3fecb315b1e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.Binding&lt;OnlineShopping.CartProduct&gt;) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Divider, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in OnlineShopping.CartScreen.body.getter : some"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "338CEBD5-57A8-4D97-95A7-C2A85AE156DB - 33ef91f81538295b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in closure #1 (SwiftUI.Binding&lt;OnlineShopping.CartProduct&gt;) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ScrollView&lt;SwiftUI.VStack&lt;SwiftUI.ForEach&lt;SwiftUI.Binding&lt;Swift.Array&lt;OnlineShopping.CartProduct&gt;&gt;, Swift.String, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt;&gt;, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Divider, &lt;&lt;opaque return type of SwiftUI.View.cornerRadius(_: CoreGraphics.CGFloat, antialiased: Swift.Bool) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in OnlineShopping.CartScreen.body.getter : some"
+                  moduleName = "OnlineShopping"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haiph/Desktop/myProject/HaiPH7-EnrichFinal/OnlineShopping/OnlineShopping/Screen/Cart/CartScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
